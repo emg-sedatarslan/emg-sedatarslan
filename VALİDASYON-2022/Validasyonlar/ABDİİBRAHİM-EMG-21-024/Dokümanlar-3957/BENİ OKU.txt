@@ -1,0 +1,12 @@
+
+EKLER
+
+EMG-21-024.3957.FAT		: Fabrika Kabul Test Protokolü ve Raporu
+EMG-21-024.3957.IQ		: Kurulum Kalifikasyonu
+EMG-21-024.3957.OQ		: Operasyonal Kalifikasyon
+EMG-21-024.3957.FS		: Fonksiyonel Spesifikasyon
+EMG-21-024.3957.DQ		: Dizayn Kalifikasyonu
+EMG-21-024.3957_EK.1		: Üstten Etiketleme Makinesi Elektrik Şeması, I/O List
+EMG-21-024.3957_EK.2		: Üstten Etiketleme Makinesi Kompenent Listesi
+EMG-21-024.3957_EK.3		: Otomatik Ambalaj Makinaları Tasarımı, Geliştirilmesi, Üretimi, Satışı ve Servisi
+EMG-21-024.3957_EK.4		: Etiket Yapıştırma Makinaları (Soğuk Tutkallı, Erimiş Tutkallı Kendinden Tutkallı)”

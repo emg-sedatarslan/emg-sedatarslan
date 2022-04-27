@@ -1,0 +1,248 @@
+%!Adobe-FontList 1.22
+%Locale:0x41f
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic
+FamilyName:Century Gothic
+StyleName:Regular
+FullName:Century Gothic
+MenuName:Century Gothic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Masaüstü\MÜŞTERİYE ÖZEL TEKNİK DOKÜMANLAR\NUVİTA FORMAT PARÇALARI\3925-NUVİTA FORMAT PARÇALARI\Document fonts\GOTHIC.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:137568
+FileModTime:1538658424
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-Bd
+FamilyName:Helvetica Neue LT Pro
+StyleName:75 Bold
+FullName:Helvetica Neue LT Pro 75 Bold
+MenuName:HelveticaNeueLT Pro 55 Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Masaüstü\MÜŞTERİYE ÖZEL TEKNİK DOKÜMANLAR\NUVİTA FORMAT PARÇALARI\3925-NUVİTA FORMAT PARÇALARI\Document fonts\HelveticaNeueLTPro-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35688
+FileModTime:1128818300
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Pro 75 Bd
+NameArray:0,Mac,4,Helvetica Neue LT Pro 75 Bold
+NameArray:0,Win,1,HelveticaNeueLT Pro 55 Roman
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-Md
+FamilyName:Helvetica Neue LT Pro
+StyleName:65 Medium
+FullName:Helvetica Neue LT Pro 65 Medium
+MenuName:HelveticaNeueLT Pro 65 Md
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Masaüstü\MÜŞTERİYE ÖZEL TEKNİK DOKÜMANLAR\NUVİTA FORMAT PARÇALARI\3925-NUVİTA FORMAT PARÇALARI\Document fonts\HelveticaNeueLTPro-Md.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:42076
+FileModTime:1128818308
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Pro 65 Md
+NameArray:0,Mac,4,Helvetica Neue LT Pro 65 Medium
+NameArray:0,Win,1,HelveticaNeueLT Pro 65 Md
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-ThEx
+FamilyName:Helvetica Neue LT Pro
+StyleName:33 Thin Extended
+FullName:Helvetica Neue LT Pro 33 Thin Extended
+MenuName:HelveticaNeueLT Pro 33 ThEx
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Masaüstü\MÜŞTERİYE ÖZEL TEKNİK DOKÜMANLAR\NUVİTA FORMAT PARÇALARI\3925-NUVİTA FORMAT PARÇALARI\Document fonts\HelveticaNeueLTPro-ThEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:42908
+FileModTime:1128818310
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Pro 33 ThEx
+NameArray:0,Mac,4,Helvetica Neue LT Pro 33 Thin Extended
+NameArray:0,Win,1,HelveticaNeueLT Pro 33 ThEx
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Masaüstü\MÜŞTERİYE ÖZEL TEKNİK DOKÜMANLAR\NUVİTA FORMAT PARÇALARI\3925-NUVİTA FORMAT PARÇALARI\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1628683030
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Masaüstü\MÜŞTERİYE ÖZEL TEKNİK DOKÜMANLAR\NUVİTA FORMAT PARÇALARI\3925-NUVİTA FORMAT PARÇALARI\Document fonts\arial.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1036584
+FileModTime:1575709706
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Masaüstü\MÜŞTERİYE ÖZEL TEKNİK DOKÜMANLAR\NUVİTA FORMAT PARÇALARI\3925-NUVİTA FORMAT PARÇALARI\Document fonts\arialbd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:980756
+FileModTime:1575709706
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+FullName:Calibri
+MenuName:Calibri
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Masaüstü\MÜŞTERİYE ÖZEL TEKNİK DOKÜMANLAR\NUVİTA FORMAT PARÇALARI\3925-NUVİTA FORMAT PARÇALARI\Document fonts\calibri.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1648120
+FileModTime:1575709706
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+FullName:Calibri Bold
+MenuName:Calibri
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Masaüstü\MÜŞTERİYE ÖZEL TEKNİK DOKÜMANLAR\NUVİTA FORMAT PARÇALARI\3925-NUVİTA FORMAT PARÇALARI\Document fonts\calibrib.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1613668
+FileModTime:1575709706
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri Bold
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Verdana
+FamilyName:Verdana
+StyleName:Regular
+FullName:Verdana
+MenuName:Verdana
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Masaüstü\MÜŞTERİYE ÖZEL TEKNİK DOKÜMANLAR\NUVİTA FORMAT PARÇALARI\3925-NUVİTA FORMAT PARÇALARI\Document fonts\verdana.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:243304
+FileModTime:1575709707
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Verdana
+NameArray:0,Win,1,Verdana
+%EndFont
+
